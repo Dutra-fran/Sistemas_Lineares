@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 int main(){
-  // 
+
   int x, y, z; // variáveis que carregarão os valores corretos dos sistemas informado.
   int cont; // variável responsável pela contagem do loop while.
   int sair; // Não tem muita utilidade, além de somente ser a última função do programa para sair do programa.
