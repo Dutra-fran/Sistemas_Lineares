@@ -23,8 +23,7 @@ printf("\nSeja os sistemas lineares com forma:");
 printf("\n\t1. x + y + z");
 printf("\n\t2. x + y + z");
 printf("\n\t3. x + y + z");
-printf("\n\nOBS: Caso alguma variavel for negativa, e' so colocar o sinal do coeficiente da
-variavel como negativo!\n");
+printf("\n\nOBS: Caso alguma variavel for negativa, e' so colocar o sinal do coeficiente da variavel como negativo!\n");
 printf("\n------------------------");
 printf("\n\nPreencha as informacoes do Sistema 1: ");
 printf("\nA variavel X tem algum coeficiente? (Caso nao tenha insira 1): ");
@@ -107,8 +106,7 @@ printf("\nY = %1.0f", y1);
 printf("\nZ = %1.0f", z1);
 printf("\n------------------------");
 printf("\n\tPrograma feito por Robson Filho! xD");
-printf("\n\nSelecione qualquer caractere do seu Teclado e em Seguida aperte ENTER
-para sair: ");
+printf("\n\nSelecione qualquer caractere do seu Teclado e em Seguida aperte ENTER para sair: ");
 scanf("%d", &sair);
 return 0;
 }
