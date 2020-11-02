@@ -82,7 +82,7 @@ int main(){
     switch(x){
       case 451:
         // Caso o X chegue no valor 451, esse bloco de códigos irá executar as instruções abaixo:
-        x = -99;
+        x = -99; // a variável X receberá o valor de -99.
         y++; // a variável Y será incrementado.
         break;
     }
